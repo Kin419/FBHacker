@@ -57,8 +57,8 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAnony Joker
-\033[1;96mInstagram \033[1;93m: \033[1;Agent Anonymous
-\033[1;96mFacebook  \033[1;93m: \033[1; Cornelius King
+\033[1;96mInstagram \033[1;93m: \033[1;92mAgent Anonymous
+\033[1;96mFacebook  \033[1;93m: \033[1;92mCornelius King
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TechnicianAJ
 \033[1;91m======================================="""
 
