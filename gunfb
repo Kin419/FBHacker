@@ -48,24 +48,24 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•ANONYMOUS-TECHNICIANS ------•◈•
-|__\~~) •||•CYBORG - C134---------------•◈•
-|__(-----\  •◈•------ANONY-JOKER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+•◈•---/-\ |\| ( ) |\| `/ |\/|( )|_| &---•◈•
+•◈•-------<FACEBOOK-HACKING-TOOL/>------•◈•
+•◈•---------:{_HACKER-419-INC_}:--------•◈•
+•◈•---------|•█ -ANONY-JOKER- █•|-------•◈•
+•◈•-----------█-------⑦-------█---------•◈•
+•◈•-----------█-------⑧-------█---------•◈•
+•◈•-----------█-------⑥-------█---------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAnony Joker
-\033[1;96mInstagram \033[1;93m: \033[1;92mAgent Anonymous
-\033[1;96mFacebook  \033[1;93m: \033[1;92mCornelius King
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TechnicianAJ
+\033[1;96mAUTHOUR  \033[1;93m: \033[1;92mANONY KIN
+\033[1;96mTELEGRAM \033[1;93m: \033[1;92m@SYSTEM_BREAKERZ
+\033[1;96mFACEBOOK  \033[1;93m: \033[1;92mKIN
+\033[1;96mGITHUB \033[1;93m: \033[1;92mhttps://github.com/TechnicianAJ
 \033[1;91m======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mLogging In \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -80,29 +80,29 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAnony Joker
-\033[1;96mTelegram \033[1;93m: \033[1;92m@Anony_Joker
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Cornelius King
+\033[1;96mAuthor  \033[1;93m: \033[1;92mANONY KIN
+\033[1;96mTelegram \033[1;93m: \033[1;92m@HACKER_419
+\033[1;96mFacebook  \033[1;93m: \033[1;92m KIN
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TechnicianAJ
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Anony"
-CorrectPassword = "Agents"
+AgentUsername = "ANONYMOUS"
+AgentPassword = "KIN419"
 
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
+    if (username == AgentUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
+        if (password == AgentPassword):
             print "Welcome Agent as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
+            print "ACCESS DENIED"
             os.system('xdg-open https://t.me/System_Breakerz')
     else:
-        print "Wrong Username"
+        print "ACCESS DENIED"
         os.system('xdg-open https://www.youtube.com/channel/UCtyUATNUxSiWOQQGyML_sqw')
 
 def login():
